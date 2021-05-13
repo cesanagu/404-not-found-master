@@ -21,7 +21,7 @@ nav {
 main {
   display: flex;
   place-items: center;
-  height: 100vh;
+  height: calc(100vh - 50px);
 }
 
 .container {
